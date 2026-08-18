@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#8C5A3C"/>
+  <circle cx="300.0" cy="252.0" r="132.0" fill="rgba(255,255,255,0.15)"/>
+  <text x="50%" y="52%" font-family="Georgia, serif" font-size="42.00000000000001" fill="#fff" text-anchor="middle" dominant-baseline="middle">Bakery Storefront</text>
+  <text x="50%" y="88%" font-family="Georgia, serif" font-size="21.000000000000004" fill="rgba(255,255,255,0.75)" text-anchor="middle">Golden Crust Bakery</text>
+</svg>
